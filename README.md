@@ -110,5 +110,41 @@
       <sub><b>Image 21</b></sub>
     </td>
   </tr>
-  <!-- Repeat the entire row block for 5 more rows -->
+  <tr>
+    <td align="center">
+      <img src="https://api.dicebear.com/7.x/open-peeps/svg?seed=WHGR" alt="Image 5" style="width: 100px;"/>
+      <br />
+      <sub><b>Image 22</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://api.dicebear.com/7.x/personas/svg?seed=JG" alt="Image 6" style="width: 100px;"/>
+      <br />
+      <sub><b>Image 23</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://api.dicebear.com/7.x/pixel-art/svg?seed=GH" alt="Image 7" style="width: 100px;"/>
+      <br />
+      <sub><b>Image 24</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://api.dicebear.com/7.x/pixel-art-neutral/svg?seed=JD" alt="Image 8" style="width: 100px;"/>
+      <br />
+      <sub><b>Image 25</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://api.dicebear.com/7.x/rings/svg?seed=JD" alt="Image 8" style="width: 100px;"/>
+      <br />
+      <sub><b>Image 26</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://api.dicebear.com/7.x/shapes/svg?seed=JD" alt="Image 8" style="width: 100px;"/>
+      <br />
+      <sub><b>Image 27</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://api.dicebear.com/7.x/thumbs/svg?seed=JD" alt="Image 8" style="width: 100px;"/>
+      <br />
+      <sub><b>Image 28</b></sub>
+    </td>
+  </tr>
 </table>
