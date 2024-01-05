@@ -7,7 +7,6 @@
 </h3>
 </br>
 </br>
-</br>
 
 # # Available Avatar Styles
 
