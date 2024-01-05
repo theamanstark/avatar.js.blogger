@@ -2,8 +2,6 @@
 
 ![AvatarJs](https://raw.githubusercontent.com/theamanstark/avatar.js.blogger/main/.gitassets/demo.png)
 </br>
-</br>
-</br>
 <h3 align="center">
   Demo :- <a href="https://imstark.link/avatar-js">Click Here</a>
 </h3>
