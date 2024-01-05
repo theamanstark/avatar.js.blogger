@@ -1,4 +1,5 @@
 <h1 align="center">Avatar.js: Blogger Edition</h1>
+
 ![AvatarJs](https://raw.githubusercontent.com/theamanstark/avatar.js.blogger/main/.gitassets/demo.png)
 </br>
 </br>
