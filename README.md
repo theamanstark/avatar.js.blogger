@@ -3,7 +3,9 @@
 ![AvatarJs](https://raw.githubusercontent.com/theamanstark/avatar.js.blogger/main/.gitassets/demo.png)
 </br>
 </br>
+</br>
 
+# Available Avatar Styles
 
 <table>
   <tr>
