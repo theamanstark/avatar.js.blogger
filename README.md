@@ -15,7 +15,7 @@
     <td align="center">
       <img src="https://api.dicebear.com/7.x/adventurer/svg?seed=JD" alt="adventurer" style="width: 100px;"/>
       <br />
-      <sub><b>adventurer</b></sub>
+      <sub><b>`adventurer`</b></sub>
     </td>
     <td align="center">
       <img src="https://api.dicebear.com/7.x/adventurer-neutral/svg?seed=JD" alt="adventurer-neutral" style="width: 100px;"/>
