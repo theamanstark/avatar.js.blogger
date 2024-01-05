@@ -20,6 +20,21 @@
       <br />
       <sub><b>Image 4</b></sub>
     </td>
+    <td align="center">
+      <img src="https://api.dicebear.com/7.x/big-ears/svg?seed=JD" alt="Image 5" style="width: 100px;"/>
+      <br />
+      <sub><b>Image 5</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://api.dicebear.com/7.x/big-ears-neutral/svg?seed=JD" alt="Image 5" style="width: 100px;"/>
+      <br />
+      <sub><b>Image 6</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://api.dicebear.com/7.x/big-smile/svg?seed=JD" alt="Image 5" style="width: 100px;"/>
+      <br />
+      <sub><b>Image 7</b></sub>
+    </td>
   </tr>
   <tr>
     <td align="center">
