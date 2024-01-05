@@ -4,9 +4,9 @@
 </br>
 </br>
 </br>
-<p align="center">
+<h3 align="center">
   Demo :- <a href="https://imstark.link/avatar-js">Click Here</a>
-</p>
+</h3>
 </br>
 </br>
 </br>
