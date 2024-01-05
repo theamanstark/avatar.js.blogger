@@ -53,7 +53,7 @@
       <sub><b>Image 10</b></sub>
     </td>
     <td align="center">
-      <img src="https://api.dicebear.com/7.x/croodles-neutral/svg?seed=happy" alt="Image 8" style="width: 100px;"/>
+      <img src="https://api.dicebear.com/7.x/croodles-neutral/svg?seed=JD" alt="Image 8" style="width: 100px;"/>
       <br />
       <sub><b>Image 11</b></sub>
     </td>
@@ -71,6 +71,43 @@
       <img src="https://api.dicebear.com/7.x/identicon/svg?seed=JD" alt="Image 8" style="width: 100px;"/>
       <br />
       <sub><b>Image 14</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://api.dicebear.com/7.x/initials/svg?seed=JD" alt="Image 5" style="width: 100px;"/>
+      <br />
+      <sub><b>Image 15</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://api.dicebear.com/7.x/lorelei/svg?seed=JD" alt="Image 6" style="width: 100px;"/>
+      <br />
+      <sub><b>Image 16</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://api.dicebear.com/7.x/lorelei-neutral/svg?seed=JD" alt="Image 7" style="width: 100px;"/>
+      <br />
+      <sub><b>Image 17</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://api.dicebear.com/7.x/micah/svg?seed=JD" alt="Image 8" style="width: 100px;"/>
+      <br />
+      <sub><b>Image 18</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://api.dicebear.com/7.x/miniavs/svg?seed=JD" alt="Image 8" style="width: 100px;"/>
+      <br />
+      <sub><b>Image 19</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://api.dicebear.com/7.x/notionists/svg?seed=JD" alt="Image 8" style="width: 100px;"/>
+      <br />
+      <sub><b>Image 20</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://api.dicebear.com/7.x/notionists-neutral/svg?seed=JD" alt="Image 8" style="width: 100px;"/>
+      <br />
+      <sub><b>Image 21</b></sub>
     </td>
   </tr>
   <!-- Repeat the entire row block for 5 more rows -->
