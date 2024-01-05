@@ -167,3 +167,24 @@
 </br>
 
 # # Documentation
+
+1. Just add these two JavaScript's in your site above `</body>`
+
+   ```javascript
+    <script>/*<![CDATA[*/
+    // The css selectors used here are from plus ui blogger theme, so if you are using a different theme you need to change the selectors accordingly.
+    const config = {
+       usernameSelector: '.cmHr .n bdi', // The selector for the username element
+       commentSelector: '.c', // The selector for the comment element (the element that contains the username and the timestamp)
+       timestampSelector: '.d.dtTm', // The selector for the timestamp element
+       timestampAttribute: 'data-datetime', // The attribute for the timestamp
+       profilePicSelector: '.cmAv .im', // The selector for the profile picture element
+       setRandomAvatarForAll: true, // When true it will set a random avatar for all the users in the comment section, when false it will only set avatars for users who don't have a profile picture
+       avatarStyle: 'thumbs' // Choose the avatar style, examples :- thumbs
+   };
+    /*]]>*/</script>
+    ```
+    
+    ```html
+    <script src='https://theamanstark.com/cdn/blogger/avatar.js/v1.0.min.js'></script>
+    ```
