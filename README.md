@@ -4,6 +4,12 @@
 </br>
 </br>
 </br>
+<p align="center">
+  <a href="your-link-here">Your Link Text</a>
+</p>
+</br>
+</br>
+</br>
 
 # # Available Avatar Styles
 
