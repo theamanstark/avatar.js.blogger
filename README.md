@@ -8,7 +8,8 @@
 </br>
 </br>
 
-# # Available Avatar Styles
+# # Available Avatar Styles 🎨
+Copy your desired avatar art style code name from here and paste it into config.js at `avatarStyle`.
 
 <table>
   <tr>
