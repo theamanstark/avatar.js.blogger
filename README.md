@@ -180,7 +180,7 @@
        timestampAttribute: 'data-datetime', // The attribute for the timestamp
        profilePicSelector: '.cmAv .im', // The selector for the profile picture element
        setRandomAvatarForAll: true, // When true it will set a random avatar for all the users in the comment section, when false it will only set avatars for users who don't have a profile picture
-       avatarStyle: 'thumbs' // Choose the avatar style, examples :- thumbs
+       avatarStyle: 'thumbs' // Choose the avatar style, examples :- bottts
      };
     /*]]>*/</script>
     ```
