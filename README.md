@@ -1,7 +1,7 @@
 <table>
   <tr>
-    <td align="center">
-      <img src="https://api.dicebear.com/7.x/adventurer/svg?seed=JD" alt="Image 1" style="width: 100px;"/>
+    <td align="center" style="background-color: #f0f0f0;">
+      <img src="https://api.dicebear.com/7.x/adventurer/svg?seed=JD" alt="Image 1" style="width: 100px; border-radius: 50%;"/>
       <br />
       <sub><b>Image 1</b></sub>
     </td>
