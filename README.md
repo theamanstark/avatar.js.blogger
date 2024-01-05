@@ -5,7 +5,7 @@
 </br>
 </br>
 
-# Available Avatar Styles
+# # Available Avatar Styles
 
 <table>
   <tr>
