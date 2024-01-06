@@ -193,4 +193,7 @@
 
 3. When `setRandomAvatarForAll = true`, the code will assign the randomly generated avatar to every person who has commented on your article; however, if `setRandomAvatarForAll = false`, the avatar will be allocated exclusively to those who do not have a profile picture.
 
-## # Note :- If you're using the Plus Ui blogger theme, just ignore this note. This message is for users who want to use this code on a blogger template other than Plus Ui; if so, you must change all of the CSS selectors in the config to match your site's comment box CSS selector. Please read the comments in the config to see which CSS selector is for which element.
+</br>
+</br>
+
+### # Note :- If you're using the Plus Ui blogger theme, just ignore this note. This message is for users who want to use this code on a blogger template other than Plus Ui; if so, you must change all of the CSS selectors in the config to match your site's comment box CSS selector. Please read the comments in the config to see which CSS selector is for which element.
