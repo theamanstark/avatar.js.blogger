@@ -195,4 +195,4 @@
 
 </br>
 
-#### # Note :- If you're using the Plus Ui blogger theme, just ignore this note. This message is for users who want to use this code on a blogger template other than Plus Ui; if so, you must change all of the CSS selectors in the config to match your site's comment box CSS selector. Please read the comments in the config to see which CSS selector is for which element.
+#### # Note :- If you're using the Plus Ui blogger theme, just ignore this. This message is for users who want to use this code on a blogger template other than Plus Ui; if so, you must change all of the CSS selectors in the config to match your site's comment box CSS selector. Please read the comments in the config to see which CSS selector is for which element.
