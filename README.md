@@ -190,3 +190,5 @@
     ```
 
 2. To select the avatar art style of your choice, enter the code name at `avatarStyle` in the config, for example, `const config = { avatarStyle: 'thumbs', };` To see each art style in action, go to the demo site :- [click here](https://imstark.link/avatar-js).
+
+3. When `setRandomAvatarForAll = true`, the code will assign the randomly generated avatar to every person who has commented on your article; however, if `setRandomAvatarForAll = false`, the avatar will be allocated exclusively to those who do not have a profile picture.
