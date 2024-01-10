@@ -186,6 +186,7 @@
     ```
     
     ```html
+    <!-- This will load the avatar.js only on posts and pages -->
     <b:if cond='data:view.isSingleItem'>
     <script src='https://theamanstark.com/cdn/blogger/avatar.js/v1.0/av.min.js'></script>
     </b:if>
