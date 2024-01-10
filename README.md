@@ -1,6 +1,6 @@
 <h1 align="center">Avatar.js: Blogger Edition</h1>
 
-![AvatarJs](https://raw.githubusercontent.com/theamanstark/avatar.js.blogger/main/.gitassets/demo.png)
+![AvatarJs](https://raw.githubusercontent.com/theamanstark/avatar.js.blogger/v1.0/.gitassets/demo.png)
 </br>
 <h3 align="center">
   Demo :- <a href="https://imstark.link/avatar-js">Click Here</a>
@@ -187,7 +187,7 @@
     
     ```html
     <b:if cond='data:view.isSingleItem'>
-    <script src='https://theamanstark.com/cdn/blogger/avatar.js/v1.0.min.js'></script>
+    <script src='https://theamanstark.com/cdn/blogger/avatar.js/v1.0/av.min.js'></script>
     </b:if>
     ```
 
