@@ -186,7 +186,9 @@
     ```
     
     ```html
+    <b:if cond='data:view.isSingleItem'>
     <script src='https://theamanstark.com/cdn/blogger/avatar.js/v1.0.min.js'></script>
+    </b:if>
     ```
 
 2. To select the avatar art style of your choice, enter the code name at `avatarStyle` in the config, for example, `const config = { avatarStyle: 'thumbs', };` To see each art style in action, go to the demo site :- [click here](https://imstark.link/avatar-js).
